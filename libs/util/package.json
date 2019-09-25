@@ -1,0 +1,11 @@
+{
+  "name": "@ngx-toolbox/util",
+  "author": "ngx toolbox (Ralf Hannuschka)",
+  "description": "angular utilities",
+  "license": "MIT",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "^8.2.4",
+    "rxjs": "^6.5.2"
+  }
+}

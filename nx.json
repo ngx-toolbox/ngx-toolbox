@@ -1,0 +1,21 @@
+{
+  "npmScope": "ngx-toolbox",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "ngx-toolbox-utils-e2e": {
+      "tags": []
+    },
+    "ngx-toolbox-utils": {
+      "tags": []
+    },
+    "util": {
+      "tags": []
+    }
+  }
+}
